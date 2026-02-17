@@ -7,11 +7,7 @@ env/
 __pycache__/
 *.pyc
 
-# ML artifacts
-*.pkl
-*.joblib
 
 # OS
 .DS_Store
 Thumbs.db
-
